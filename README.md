@@ -35,7 +35,6 @@
 ---
 
 ## 🧑‍💻 Languages & Tools  
-*(Click icons to visit official websites)*
 
 <p align="left">
 
@@ -74,17 +73,19 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurk11&show_icons=true&theme=dracula" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurk11&layout=compact&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mayurk11&show_icons=true&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mayurk11&layout=compact&theme=dracula" height="160"/>
 </p>
+
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mayurk11&theme=monokai"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mayurk11&theme=monokai"/>
 </p>
+
 
 ---
 
