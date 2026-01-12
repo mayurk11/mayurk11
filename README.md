@@ -1,23 +1,22 @@
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
-  
+
   # 👋 Hi, I'm **Mayur Kale**
-  ### 🚀 Full-Stack Developer | 💻 Tech Enthusiast | 🇮🇳 India  
+  ### 💻 Full-Stack Developer | 🚀 Tech Enthusiast | 🇮🇳 India  
   _“Code. Learn. Improve. Repeat.”_
 </div>
 
 ---
 
-## 👨‍💻 Who Am I?
+## 👨‍💻 About Me
 
-I am a passionate **Full-Stack Web Developer** focused on building scalable, modern web applications using **Python, Django, React, and Node.js**.  
-I enjoy solving real-world problems with technology and continuously upgrading my skills.
+I am a passionate **Full-Stack Web Developer** who loves building scalable and modern web applications using  
+**Python, Django, React, Node.js, and SQL**.
 
-**Currently I am:**
-- 🚀 Working on **Full-Stack & Python-based projects**
+- 🔭 Working on **Full-Stack Web & Python Projects**
 - 🌱 Learning **Advanced Django, React & Backend Architecture**
 - 👯 Open to **Open-Source & Freelance Collaboration**
-- 💬 Ask me about **Python, Django, React, SQL, Git**
+- 💬 Ask me about **Python, Django, React, SQL & Git**
 - 🎯 Goal: Become a **Skilled Software Engineer**
 
 ---
@@ -77,19 +76,25 @@ I enjoy solving real-world problems with technology and continuously upgrading m
 
 ---
 
-## 📊 GitHub Analytics
-
+## 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mayurk11&show_icons=true&theme=dracula" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mayurk11&layout=compact&theme=dracula" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurk11&theme=github_dark"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
+## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mayurk11&theme=monokai"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayurk11&theme=github_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayurk11&theme=github_dark&utcOffset=5.5" height="160"/>
+</p>
+
+---
+
+## 🧠 Languages I Use
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayurk11&theme=github_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayurk11&theme=github_dark" height="160"/>
 </p>
 
 ---
@@ -98,7 +103,7 @@ I enjoy solving real-world problems with technology and continuously upgrading m
 
 - 🌐 Full-Stack Web Applications  
 - ⚙️ Django & REST APIs  
-- ⚛️ React-based Frontends  
+- ⚛️ React Frontends  
 - 📊 Python Data Analysis  
 
 ---
@@ -112,4 +117,4 @@ I enjoy solving real-world problems with technology and continuously upgrading m
 ---
 
 ⭐ **Thanks for visiting my GitHub profile!**  
-Let’s connect, collaborate, and build something amazing 🚀
+Let’s connect and build something amazing 🚀
