@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+
+
 
   # 👋 Hi, I'm **Mayur Kale**
-  ### 💻 Full-Stack Developer | 🚀 Tech Enthusiast | 🇮🇳 India  
+  ### 💻 Python • Django • React • AI/ML | 🇮🇳 India 
   _“Code. Learn. Improve. Repeat.”_
 </div>
 
