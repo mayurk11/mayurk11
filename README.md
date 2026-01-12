@@ -1,29 +1,30 @@
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Mayur Kale</h1>
-<h3 align="center">A Passionate Full-Stack Developer & Tech Enthusiast from India 🇮🇳</h3>
-
-<p align="center">
-🚀 Learning | 💻 Building | 🌱 Growing Every Day
-</p>
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
+  
+  # 👋 Hi, I'm **Mayur Kale**
+  ### 🚀 Full-Stack Developer | 💻 Tech Enthusiast | 🇮🇳 India  
+  _“Code. Learn. Improve. Repeat.”_
+</div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 Who Am I?
 
-- 🔭 Currently working on **Full-Stack Web Development & Python Projects**
+I am a passionate **Full-Stack Web Developer** focused on building scalable, modern web applications using **Python, Django, React, and Node.js**.  
+I enjoy solving real-world problems with technology and continuously upgrading my skills.
+
+**Currently I am:**
+- 🚀 Working on **Full-Stack & Python-based projects**
 - 🌱 Learning **Advanced Django, React & Backend Architecture**
-- 👯 Open to collaborate on **Open-Source & Real-World Projects**
-- 💬 Ask me about **Python, Django, React, Node.js, SQL & Git**
-- 🎯 Goal: **Become a Skilled Full-Stack / Software Engineer**
+- 👯 Open to **Open-Source & Freelance Collaboration**
+- 💬 Ask me about **Python, Django, React, SQL, Git**
+- 🎯 Goal: Become a **Skilled Software Engineer**
 
 ---
 
-## 🤝 Connect with Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p>
 <a href="https://www.linkedin.com/in/mayur-kale-808814245/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
@@ -34,38 +35,44 @@
 
 ---
 
-## 🧑‍💻 Languages & Tools  
+## 🛠 Tech Stack
 
-<p align="left">
+### 🔹 Backend & Programming
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+</p>
 
-<!-- Programming & Backend -->
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/></a>
+### 🔹 Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+</p>
 
-<!-- Frontend -->
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/></a>
+### 🔹 Databases
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="40"/>
+</p>
 
-<!-- Databases -->
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="40"/></a>
+### 🔹 Data Science
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
+</p>
 
-<!-- Data Science -->
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-<a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/></a>
-
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></a>
-
+### 🔹 Tools
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 </p>
 
 ---
@@ -77,7 +84,6 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mayurk11&layout=compact&theme=dracula" height="160"/>
 </p>
 
-
 ---
 
 ## 🔥 GitHub Streak
@@ -86,15 +92,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mayurk11&theme=monokai"/>
 </p>
 
-
 ---
 
-## 📌 Featured Work
+## 🚀 What I Build
 
-- 🌐 **Full-Stack Web Applications**
-- ⚙️ **Django & REST APIs**
-- ⚛️ **React Frontend Projects**
-- 📊 **Data Analysis with Python**
+- 🌐 Full-Stack Web Applications  
+- ⚙️ Django & REST APIs  
+- ⚛️ React-based Frontends  
+- 📊 Python Data Analysis  
 
 ---
 
@@ -106,6 +111,5 @@
 
 ---
 
-✨ **Thanks for visiting my GitHub profile!**  
-⭐ Feel free to explore my repositories and connect with me.  
-💡 *“Code. Learn. Improve. Repeat.”*
+⭐ **Thanks for visiting my GitHub profile!**  
+Let’s connect, collaborate, and build something amazing 🚀
